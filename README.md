@@ -123,6 +123,7 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
 <img width="676" height="855" alt="Screenshot from 2025-11-02 17-44-58" src="https://github.com/user-attachments/assets/c58b7034-f3c9-41d2-aad0-d511b83be7ce" />
 
 
